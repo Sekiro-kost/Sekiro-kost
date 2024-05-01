@@ -39,11 +39,20 @@ Here are some ideas to get you started:
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sekiro-kost&show_icons=true&theme=dracula&show=reviews,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sekiro-kost&layout=compact&langs_count=8" />
+</a>
+
+
+---
+
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sekiro-kost&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sekiro-kost&show_icons=true&theme=dracula)
 
 [![Anurag's GitHub stats](https://github-readme-stats-nine-hazel-23.vercel.app/api?username=Sekiro-kost&theme=vision-friendly-dark&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-nine-hazel-23.vercel.app/api/top-langs/?username=Sekiro-kost&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
